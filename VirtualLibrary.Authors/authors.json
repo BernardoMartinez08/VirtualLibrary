@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "first_name": "Sidnee",
+        "last_name": "Divers",
+        "email": "sdivers0@ftc.gov",
+        "gender": "Bigender"
+    },
+    {
+        "id": 2,
+        "first_name": "Julius",
+        "last_name": "Vigurs",
+        "email": "jvigurs1@yahoo.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Ruprecht",
+        "last_name": "Droghan",
+        "email": "rdroghan2@amazonaws.com",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Pembroke",
+        "last_name": "Munslow",
+        "email": "pmunslow3@tumblr.com",
+        "gender": "Genderqueer"
+    },
+    {
+        "id": 5,
+        "first_name": "Caro",
+        "last_name": "Nisot",
+        "email": "cnisot4@oaic.gov.au",
+        "gender": "Agender"
+    }
+]
